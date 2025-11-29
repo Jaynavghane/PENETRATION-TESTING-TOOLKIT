@@ -426,11 +426,17 @@ To contribute improvements:
 
 ---
 
-## 📝 License
+## 📝 purpose
 
 Educational and internship project for authorized security testing only.
 
----
+----------------------------------------------------------------
+
+## Output
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5e97db9f-4bc5-45d4-8c92-44a44625fc59" />
+
+
+----------------------------------------------
 
 ## 🎓 Learning Resources
 
@@ -453,3 +459,4 @@ For issues or questions:
 **Last Updated:** November 29, 2025  
 **Version:** 0.1.0  
 **Author:** CODTECH Internship Program
+

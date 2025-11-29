@@ -458,5 +458,12 @@ For issues or questions:
 
 **Last Updated:** November 29, 2025  
 **Version:** 0.1.0  
-**Author:** CODTECH Internship Program
+**Author:** 
+* Company: CODTECH IT SOLUTIONS
+* Name: Jay Navghane
+* Intern ID: COD08111
+* Domain: Cyber security & Ethical Hacking
+* Duration: 6 weeks
+* Mentor: Neela Santosh
+
 
